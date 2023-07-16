@@ -1,5 +1,13 @@
 # Photography NFT Platform
 
+## Tech Stack
+
+- [ ] React
+- [ ] Solidity
+- [ ] Truffle
+- [ ] Ganache
+- [ ] Stripe API
+
 ## User Stories
 
 ### Artist
