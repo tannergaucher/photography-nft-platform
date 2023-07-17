@@ -4,8 +4,7 @@
 
 - [ ] React
 - [ ] Solidity
-- [ ] Truffle
-- [ ] Ganache
+- [ ] Truffle Suite
 - [ ] Stripe API
 
 ## User Stories
